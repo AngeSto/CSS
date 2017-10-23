@@ -5,10 +5,6 @@
           font-family: Arial, Helvetica, sans-serif;
         }
 
-        #list_section { 
-          
-        }
-
         header h1 { 
           font-size: 34px;
         }
@@ -17,11 +13,6 @@
         }
         h2{
           color: #4BB5C1;
-        }
-
-
-        ul {
-          
         }
 
         li {
@@ -48,28 +39,8 @@
           text-decoration: none;
         }
 
-        p {
-        }
-
         #contact{
           color:#0000FF;
           font-weight: bold;
-        }
-        .item {
-        }
-
-        input[type='text'] {
-          -webkit-border-radius: 3px;
-          -moz-border-radius: 3px;
-        }
-
-        input[type='submit'] {
-          -webkit-border-radius: 8px;
-          -moz-border-radius: 8px;
-        }
-
-        #itemField {
-          margin-top: 60px;
-          width: 10%;
         }
 
